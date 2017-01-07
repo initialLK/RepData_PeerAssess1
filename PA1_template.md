@@ -1,5 +1,5 @@
 # Assignment: Reproducible Research - Week 2 (Markdown & knitr) - Course Project 1
-Chua Lin Kiat  
+Lai Jian Ken  
 
 #Introduction
 
